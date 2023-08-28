@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlexTabLayout</string>
+    <string name="hello_monday_fragment">Hello Monday Fragment</string>
+    <string name="hello_tuesday_fragment">Hello Tuesday Fragment</string>
+    <string name="hello_wednesday_fragment">Hello Wednesday Fragment</string> />
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_monday_fragment">Hello monday fragment</string>-->
+</resources>
